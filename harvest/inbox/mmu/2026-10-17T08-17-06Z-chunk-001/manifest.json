@@ -1,0 +1,19 @@
+{
+  "schema_version": "1.0",
+  "source_code": "mmu",
+  "source_name": "Siti Hasmah Digital Library (Multimedia University)",
+  "source_base_url": "https://shdl.mmu.edu.my/",
+  "terms_url": "https://shdl.mmu.edu.my/",
+  "terms_verified_on": "2026-10-17",
+  "harvester_name": "mmu-koha-harvester",
+  "harvester_version": "1.0.0",
+  "run_id": "2026-10-17T08-17-06Z-chunk-001",
+  "mode": "full",
+  "started_at": "2026-10-17T08:17:15.409Z",
+  "finished_at": "2026-10-17T08:17:15.409Z",
+  "record_count": 0,
+  "error_count": 0,
+  "status": "partial",
+  "user_agent": "PustakaTerbuka-Harvester/1.0 (+https://github.com/pustaka-terbuka/mmu; contact@pustakaterbuka.org)",
+  "notes": "MMU harvest completed. Total: 0 records."
+}
